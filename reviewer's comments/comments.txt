@@ -1,0 +1,17 @@
+
+****************************************
+Reviewer #1 Comments
+****************************************
+The paper presents a front end program for setting up parametric studies on the ATP. Specific workings of the program for faulty cases, lightning cases and switching cases are presented.
+Most commercially available programs have similar facilities and they are normally part of the user manual of the programs.
+The paper makes reference to the license in section II. It is not customary to make references to licenses in a technical paper and I would suggest removal of the reference.
+There are some minor typos, for example the word "inipientAngle" on page 3, the word "form" in abstract should be "from", etc. which can be easily corrected.
+
+****************************************
+Reviewer #2 Comments
+****************************************
+This is a well written paper discussing an open source toolbox for creating and performing numerous ATP simulations in an automated fashion. I have a couple of minor comments that would improve the paper:
+
+1. Equation one is not legible for some reason. This should be corrected.
+
+2. How is the processing time for this software? Some discussion would be of interest. Surely there are a net time savings as the automation is much faster than building cases manually, but some discussion would be good.
